@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/im/vuepress-github-actions.git"
+    "url": "git+https://github.com/masrafi115/vuepress-github-actions.git"
   },
   "keywords": [
     "github pages",
@@ -20,9 +20,9 @@
   "author": "tangxiaomi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/im/vuepress-github-actions/issues"
+    "url": "https://github.com/masrafi115/vuepress-github-actions/issues"
   },
-  "homepage": "https://github.com/im/vuepress-github-actions#readme",
+  "homepage": "https://github.com/masrafi115/vuepress-github-actions#readme",
   "devDependencies": {
     "vuepress": "^1.1.0"
   }
